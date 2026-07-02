@@ -3,7 +3,7 @@ replicaCount: 2
 image:
   repository: atulupadhyay002/eks-argocd-capstone
   pullPolicy: IfNotPresent
-  tag: "latest"
+  tag: "06b5bb36c14ed18aab81f957654f6bd16d94ccb4"
 
 service:
   type: ClusterIP
